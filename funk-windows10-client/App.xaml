@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="funk_windows10_client.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:funk_windows10_client"
+    RequestedTheme="Light">
+
+</Application>
